@@ -1186,7 +1186,7 @@ headless: true
             -   [CLASS\_VITAL\_INFO]({{< relref "./docs/Developerguide/CLASS_VITAL_INFO.md" >}})
             -   [USER\_LOGIN]({{< relref "./docs/Developerguide/USER_LOGIN.md" >}})
             -   [SUMMARY\_USER\_LOGIN]({{< relref "./docs/Developerguide/SUMMARY_USER_LOGIN.md" >}})
-        -   [Lock]({{< relref "./docs/Developerguide/Lock.md" >}})
+        -   [Lock]({{< relref "./docs/Developerguide/LOCK.md" >}})
             -   [LOCKS]({{< relref "./docs/Developerguide/LOCKS.md" >}})
             -   [GLOBAL\_LOCKS]({{< relref "./docs/Developerguide/GLOBAL_LOCKS.md" >}})
         -   [Wait Events]({{< relref "./docs/Developerguide/Wait-Events.md" >}})
