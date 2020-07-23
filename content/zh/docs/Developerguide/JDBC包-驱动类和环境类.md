@@ -40,14 +40,14 @@
         <td class="cellrowborder" valign="top" width="32.753275327532755%" headers="mcps1.2.4.1.2 "><a name="zh-cn_topic_0237120378_zh-cn_topic_0213179123_ul16913207507"></a><a name="zh-cn_topic_0237120378_zh-cn_topic_0213179123_ul16913207507"></a><ul id="zh-cn_topic_0237120378_zh-cn_topic_0213179123_ul16913207507"><li>若存在，则单击“编辑”。</li><li>若不存在，则单击“新建”。</li></ul>
         </td>
         <td class="cellrowborder" valign="top" width="51.54515451545154%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0237120378_zh-cn_topic_0213179123_p0217595132"><a name="zh-cn_topic_0237120378_zh-cn_topic_0213179123_p0217595132"></a><a name="zh-cn_topic_0237120378_zh-cn_topic_0213179123_p0217595132"></a>JAVA的安装目录。</p>
-        <p id="zh-cn_topic_0237120378_zh-cn_topic_0213179123_p1981211652"><a name="zh-cn_topic_0237120378_zh-cn_topic_0213179123_p1981211652"></a><a name="zh-cn_topic_0237120378_zh-cn_topic_0213179123_p1981211652"></a>例如：C:\Program Files\Java\jdk1.8.0_131</p>
+        <p id="zh-cn_topic_0237120378_zh-cn_topic_0213179123_p1981211652"><a name="zh-cn_topic_0237120378_zh-cn_topic_0213179123_p1981211652"></a><a name="zh-cn_topic_0237120378_zh-cn_topic_0213179123_p1981211652"></a>例如：C:\\Program Files\\Java\\jdk1.8.0_131</p>
         </td>
         </tr>
         <tr id="zh-cn_topic_0237120378_zh-cn_topic_0213179123_row5257111564711"><td class="cellrowborder" valign="top" width="15.701570157015702%" headers="mcps1.2.4.1.1 "><p id="zh-cn_topic_0237120378_zh-cn_topic_0213179123_p1325721584719"><a name="zh-cn_topic_0237120378_zh-cn_topic_0213179123_p1325721584719"></a><a name="zh-cn_topic_0237120378_zh-cn_topic_0213179123_p1325721584719"></a>Path</p>
         </td>
         <td class="cellrowborder" valign="top" width="32.753275327532755%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0237120378_zh-cn_topic_0213179123_p7257191511477"><a name="zh-cn_topic_0237120378_zh-cn_topic_0213179123_p7257191511477"></a><a name="zh-cn_topic_0237120378_zh-cn_topic_0213179123_p7257191511477"></a>编辑</p>
         </td>
-        <td class="cellrowborder" valign="top" width="51.54515451545154%" headers="mcps1.2.4.1.3 "><a name="zh-cn_topic_0237120378_zh-cn_topic_0213179123_ul108931343135117"></a><a name="zh-cn_topic_0237120378_zh-cn_topic_0213179123_ul108931343135117"></a><ul id="zh-cn_topic_0237120378_zh-cn_topic_0213179123_ul108931343135117"><li>若配置了JAVA_HOME，则在变量值的最前面加上： %JAVA_HOME%\bin;</li><li>若未配置JAVA_HOME，则在变量值的最前面加上 JAVA安装的全路径：<p id="zh-cn_topic_0237120378_zh-cn_topic_0213179123_p54286393517"><a name="zh-cn_topic_0237120378_zh-cn_topic_0213179123_p54286393517"></a><a name="zh-cn_topic_0237120378_zh-cn_topic_0213179123_p54286393517"></a>C:\Program Files\Java\jdk1.8.0_131\bin;</p>
+        <td class="cellrowborder" valign="top" width="51.54515451545154%" headers="mcps1.2.4.1.3 "><a name="zh-cn_topic_0237120378_zh-cn_topic_0213179123_ul108931343135117"></a><a name="zh-cn_topic_0237120378_zh-cn_topic_0213179123_ul108931343135117"></a><ul id="zh-cn_topic_0237120378_zh-cn_topic_0213179123_ul108931343135117"><li>若配置了JAVA_HOME，则在变量值的最前面加上： %JAVA_HOME%\\bin;</li><li>若未配置JAVA_HOME，则在变量值的最前面加上 JAVA安装的全路径：<p id="zh-cn_topic_0237120378_zh-cn_topic_0213179123_p54286393517"><a name="zh-cn_topic_0237120378_zh-cn_topic_0213179123_p54286393517"></a><a name="zh-cn_topic_0237120378_zh-cn_topic_0213179123_p54286393517"></a>C:\\Program Files\\Java\\jdk1.8.0_131\\bin;</p>
         </li></ul>
         </td>
         </tr>
@@ -55,7 +55,7 @@
         </td>
         <td class="cellrowborder" valign="top" width="32.753275327532755%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0237120378_zh-cn_topic_0213179123_p13527826155219"><a name="zh-cn_topic_0237120378_zh-cn_topic_0213179123_p13527826155219"></a><a name="zh-cn_topic_0237120378_zh-cn_topic_0213179123_p13527826155219"></a>新建</p>
         </td>
-        <td class="cellrowborder" valign="top" width="51.54515451545154%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0237120378_zh-cn_topic_0213179123_p1325841534712"><a name="zh-cn_topic_0237120378_zh-cn_topic_0213179123_p1325841534712"></a><a name="zh-cn_topic_0237120378_zh-cn_topic_0213179123_p1325841534712"></a>.;%JAVA_HOME%\lib;%JAVA_HOME%\lib\tools.jar;</p>
+        <td class="cellrowborder" valign="top" width="51.54515451545154%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0237120378_zh-cn_topic_0213179123_p1325841534712"><a name="zh-cn_topic_0237120378_zh-cn_topic_0213179123_p1325841534712"></a><a name="zh-cn_topic_0237120378_zh-cn_topic_0213179123_p1325841534712"></a>.;%JAVA_HOME%\\lib;%JAVA_HOME%\\lib\\tools.jar;</p>
         </td>
         </tr>
         </tbody>

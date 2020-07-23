@@ -25,9 +25,11 @@ This parameter is a SIGHUP parameter. Set it based on instructions provided in  
 >![](public_sys-resources/icon-notice.gif) **NOTICE:**   
 >-   Any  **%p**  in the string is replaced by the absolute path of the file to archive, and any  **%f**  is replaced by only the file name. \(The relative path is relative to the data directory.\) Use  **%%**  to embed an actual  **%**  character in the command.  
 >-   This command returns zero only if it succeeds. The following shows the command:  
+>
 >    ```  
 >    archive_command = 'cp --remove-destination %p /mnt/server/archivedir/%f'   
 >    ```  
+>
 >-   **--remove-destination**  indicates that files will be overwritten during the archiving.  
 
 **Value range**: a string

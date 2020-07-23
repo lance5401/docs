@@ -136,8 +136,10 @@ This parameter is a USERSET parameter used for O&M. You are advised not to chang
 >![](public_sys-resources/icon-note.gif) **NOTE:**   
 >-   An empty string indicates that the driver connected to the database does not support automatic setting of the  **connection\_info**  parameter or the parameter is not set by users in applications.  
 >-   The following is an example of the concatenated value of  **connection\_info**:  
+>
 >    ```  
 >    {"driver_name":"ODBC","driver_version": "(GaussDB Kernel V500R001C00 build 290d125f) compiled at 2020-05-08 02:59:43 commit 2143 last mr 131 debug","driver_path":"/usr/local/lib/psqlodbcw.so","os_user":"omm"}  
 >    ```  
+>
 >    **driver\_name**  and  **driver\_version**  are displayed by default. Whether  **driver\_path**  and  **os\_user**  are displayed is determined by users. For details, see  [Connecting to a Database](connecting-to-a-database-0.md)  and  [Configuring a Data Source in the Linux OS](configuring-a-data-source-in-the-linux-os.md).  
 
